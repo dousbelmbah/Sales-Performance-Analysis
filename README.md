@@ -107,7 +107,6 @@ Supports business planning by forecasting future sales based on historical perfo
 
 ## 📂 Repository Structure
 
-```
 Sales-Performance-Analysis-Dashboard/
 │
 ├── README.md
@@ -118,14 +117,10 @@ Sales-Performance-Analysis-Dashboard/
     ├── executive-dashboard.png
     ├── sales-performance-analysis.png
     └── sales-forecast.png
-```
 
 ---
 
 ## 📷 Dashboard Preview
-
-### Executive Summary
-
 
 ### Executive Summary
 
