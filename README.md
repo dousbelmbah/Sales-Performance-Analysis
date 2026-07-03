@@ -2,8 +2,6 @@
 
 ![Dashboard Preview](images/executive-dashboard.png)
 
-An interactive Power BI dashboard designed to analyze sales performance, identify business trends, and generate actionable insights.
-
 An interactive Power BI dashboard designed to analyze sales performance, identify key business trends, evaluate sales team performance, and generate actionable insights for decision-making. The dashboard also includes sales forecasting to support future business planning.
 
 ---
@@ -129,27 +127,24 @@ Sales-Performance-Analysis-Dashboard/
 ### Executive Summary
 
 
-```markdown
+### Executive Summary
+
 ![Executive Dashboard](images/executive-dashboard.png)
-```
 
 ---
 
 ### Sales Performance Analysis
 
 
-```markdown
+### Sales Performance Analysis
+
 ![Sales Performance Analysis](images/sales-performance-analysis.png)
-```
 
 ---
 
 ### Sales Forecast
 
-
-```markdown
 ![Sales Forecast](images/sales-forecast.png)
-```
 
 ---
 
