@@ -126,7 +126,7 @@ Sales-Performance-Analysis-Dashboard/
 
 ## 📷 Dashboard Preview
 
-### Executive Dashboard
+### Executive Summary
 
 
 ```markdown
