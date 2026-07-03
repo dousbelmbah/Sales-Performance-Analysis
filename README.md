@@ -1,5 +1,6 @@
 # 📊 Sales Performance Analysis Dashboard
 
+DASHBOARD PREVIEW
 
 ![Dashboard Preview](images/Executive%20summary.png)
 
@@ -132,10 +133,7 @@ Sales-Performance-Analysis-Dashboard/
 
 ### Sales Performance Analysis
 
-
-### Sales Performance Analysis
-
-![Sales Performance Analysis](Sales%20performance%20analysis.png)
+![Sales Performance Analysis](images/Sales%20performance%20analysis.png)
 
 ---
 
