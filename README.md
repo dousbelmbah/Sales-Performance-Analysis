@@ -64,7 +64,7 @@ Provides detailed analysis to identify sales drivers and business opportunities.
 - Top 10 Salespeople
 - Sales by Product
 - Sales by Product Size
-- Sales Performance Matrix
+- Sales Performance Overview
 - Sales Performance Breakdown (Decomposition Tree)
 
 ---
