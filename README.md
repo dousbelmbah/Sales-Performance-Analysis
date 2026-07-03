@@ -104,6 +104,7 @@ Supports business planning by forecasting future sales based on historical perfo
 - Continuously monitor sales KPIs to support informed business decisions.
 
 ---
+```
 
 ## 📂 Repository Structure
 
@@ -117,7 +118,7 @@ Sales-Performance-Analysis-Dashboard/
     ├── executive-dashboard.png
     ├── sales-performance-analysis.png
     └── sales-forecast.png
-
+```
 ---
 
 ## 📷 Dashboard Preview
